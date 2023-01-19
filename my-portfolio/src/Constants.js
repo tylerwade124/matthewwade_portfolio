@@ -10,7 +10,7 @@ export const PROJECTS = [
     image: TYPETHIS,
     name: "TypeThis",
     technologyUsed: "React, JavaScript, Git",
-    description: "A typing game where the user can select a topic, then start a typing test with quotes related to that topic. After each quote is completed the user will recieve a score(WPM, accuracy, Errors, etc.)",
+    description: "A typing game based off of multiple API calls to an API that hosts quotes with sub-topics. The user selects a topic, then begins a typing test and receives accurate calculations of WPM, accuracy, amount of errors, and time",
     deployUrl: "https://type-this.netlify.app/",
     gitHubUrl: "https://github.com/tylerwade124/type-this",
   },
